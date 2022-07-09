@@ -1,0 +1,32 @@
+Git: sistema de controle de versões distribuido.
+
+GUI: Graphic User Interface
+CLI: Command Line Interface
+
+(Terminal de Controle)
+
+dir= listar/situar 
+cd= pasta específica/subnível
+cd..=voltar
+cls=limpar
+tab=atalho
+
+(Git Bash)
+
+mkdir=criar pasta
+echo>
+del=deletar arquivos 
+rmdir /s/q= deletar repositório
+seta p/ cima=navegar
+git init= iniciar repositório
+git add= mover arquivos
+git commit
+git status
+-a= mostra os ocultos
+git push origin master
+ls=listar
+git remote -v= mostra a origem
+
+{Blobs= guarda metadados
+Tree
+Commit}

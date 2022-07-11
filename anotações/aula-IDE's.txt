@@ -1,0 +1,12 @@
+
+Java é uma linguagem orientada a objetos.
+- compilada para um bytecode que é interpretado por uma máquina virtual.
+JDK - COMPILAR PARA BYTECODE
+JVM - INTERPRETAR/ EXECUTAR
+JRE - AMBIENTE DE EXECUÇÃO DO JAVA, BIBLIOECA PADRÃO PARA JDK E JVM
+
+IDE = AMBIENTE DE DESENVOLVIMENTO INTEGRADO
+
+src ctrl n - classe
+
+Debug= encontrar e corrigir o erro.

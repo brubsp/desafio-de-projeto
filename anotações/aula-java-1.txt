@@ -1,0 +1,35 @@
+Instância: objeto
+Classe: classe
+Local: dentro de métodos (ex:main)
+Parâmetro: na assinatura do método
+
+padrão { <?visibilidade?> <?modificador?> tipo nome <?=valor inicial?>;}
+
+V: "public", "protected" e "private"
+M: "static" e "final (constante)" 
+T: tipo de dado
+N: nome
+Vi: valor inicial
+
+VARIÁVEIS NÃO PODEM COMEÇAR COM NÚMEROS
+
+Dados: valores + operações
+Estática (forte) = definir o tipo de variável na criação
+Dinâmica (fraca)
+
+long L
+float 32 bits (f)
+double 64 bits (d)
+
+1) pós-fixado: exp++ pu exp-- (j=k; k=k+/-1) - final da execução!
+2) pré-fixado: ++exp ou --exp (k+/-1) - inicio da execução!
+
+atalhos
+ex1) i+=5 (= i=i+5)
+ex2) d/=2 (= d=d/2)
+
+Casting/conversão: transformação de uma variável de tipo menos específico em mais específico, ou vice-versa.
+- upcast (implicito)
+- downcast (explicito) (ex: {int i, long L=100, i=(int)L})
+
+truncar: só usar a parte inteira

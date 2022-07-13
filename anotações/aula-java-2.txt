@@ -1,0 +1,16 @@
+AULA MÉTODOS
+
+Método: porção do código disponibilizada por uma classe. Definem e realizam um comportamento.
+
+padrão= visibilidade-tipo-modificador-*retorno nome (parâmetros)*-exceções-*corpo*
+T: concreto ou abstrato
+R: tipo de dado ou void
+
+nome-da-classe.nome-do-método =  para chamar
+
+Assinatura: nome + parâmetros
+Mensagem: ato de solicitar a execução do método.
+Por valor (cópia)
+
+Sobrecarga: definir métodos para diferentes contextos, mas preservando o nome (mudar parâmetros/assinatura).
+Return: instrução de interrupção.
